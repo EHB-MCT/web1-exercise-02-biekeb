@@ -1,0 +1,50 @@
+body {margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: sans-serif;
+}
+
+background{
+    color: rgb(200, 200, 200);
+
+}
+
+h1{
+    color: rgb(218, 62, 62);
+    
+
+}
+
+#djd{
+    color: grey;
+    font-family: sans-serif;
+}
+
+.grijs{
+
+    color: gray;
+}
+
+h2{
+    font-size: 20px;
+}
+
+a{
+
+
+}
+a:link, a:visited {
+    background-color: rgb(218, 62, 62);
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+img{
+    height: 200px;
+
+
+}
